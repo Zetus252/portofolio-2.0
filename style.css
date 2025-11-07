@@ -565,3 +565,21 @@ grid-row-gap: 0px;
   padding-left: 2%;
 
 }
+
+/* contact me */
+.contact{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5%;
+  gap: 40px;
+}
+
+.contact .icon{
+  color: grey;
+  transition: 0.2s;
+}
+
+.contact .icon:hover{
+  color: black;
+}
+/* contact me end*/
